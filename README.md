@@ -1,11 +1,11 @@
 ### (|||| ); < Hi there 👋
 
-![github](github-user-contribution.svg)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangornushi&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Dangornushi&theme=onedark&show_icons=ture" />
 </p>
+
+![github](github-user-contribution.svg)
 
 <!--
 - 🔭 I’m currently working on ...
