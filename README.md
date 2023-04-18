@@ -1,6 +1,6 @@
 ### (|||| ); < Hi there 👋
 
-![github](./github-user-contribution.svg)
+![github](github-user-contribution.svg)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangornushi&layout=compact&show_icons=true&theme=onedark" />
