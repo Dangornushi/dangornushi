@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangornushi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there (|||| ); 👋
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangornushi&layout=compact&show_icons=true&theme=onedark" />
