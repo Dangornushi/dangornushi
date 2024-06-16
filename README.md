@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning русскй язык 🇷 etc...
 - 🤔 I’m looking for help with how to make SATA driver for homemade OS in rust.
 - 💬 Ask me about under layer(C, C++, Rust, etc...)
-- 📫 How to reach me: [Twitter](htps://twitter.com/dangomu39300363), [MyPortfolio](https://dangornushi.github.io/dangomushi-Portfolio/)
+- 📫 How to reach me: [Twitter](htps://twitter.com/dangomu39300363)
+)
 - 😄 Pronouns: Mushi, he 
 - ⚡ Fun fact: (|||| );  ♬  < cute bug is me!
 
